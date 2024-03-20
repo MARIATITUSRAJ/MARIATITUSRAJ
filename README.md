@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MARIATITUSRAJ
-- 👀 I’m interested in Developer
+- 👀 I’m interested in Learning
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on GUVI
 - 📫 How to reach me titusraj30@gmail.com
